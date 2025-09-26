@@ -1,6 +1,7 @@
 public class printX {
     public static void main(String args[]){
         // declare xSize variable
+        // comment again
         int xSize = 8;
         for(int i = 0; i < xSize; i++){
             for(int j = 0; j < xSize; j++){
